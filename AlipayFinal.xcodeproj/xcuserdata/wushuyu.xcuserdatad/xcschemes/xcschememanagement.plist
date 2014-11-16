@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>SchemeUserState</key>
+	<dict>
+		<key>AlipayFinal.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>2B4BFBC61A152FA900C25085</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B4BFBD31A152FAA00C25085</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B4BFBEC1A152FCD00C25085</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B84AACB1A1219980098E502</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>2B84AAEF1A1219980098E502</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+	</dict>
+</dict>
+</plist>

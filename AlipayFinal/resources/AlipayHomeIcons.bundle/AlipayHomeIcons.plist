@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>转账</key>
+	<string>09999988.png</string>
+	<key>信用卡还款</key>
+	<string>09999999.png</string>
+	<key>当面付</key>
+	<string>10000014.png</string>
+	<key>余额宝</key>
+	<string>20000032.png</string>
+	<key>机票</key>
+	<string>20000094.png</string>
+	<key>水电煤</key>
+	<string>09999976.png</string>
+	<key>手机充值</key>
+	<string>10000003.png</string>
+	<key>亲密付</key>
+	<string>20000132.png</string>
+	<key>淘宝</key>
+	<string>2013082800000932.png</string>
+	<key>股票行情</key>
+	<string>20000134.png</string>
+	<key>彩票</key>
+	<string>10000011.png</string>
+	<key>汇率转换</key>
+	<string>20000150.png</string>
+	<key>AA收款</key>
+	<string>20000066.png</string>
+	<key>淘点点</key>
+	<string>20000120.png</string>
+	<key>游戏充值</key>
+	<string>10000006.png</string>
+	<key>爱心捐赠</key>
+	<string>10000009.png</string>
+	<key>旅游特惠</key>
+	<string>20000155.png</string>
+</dict>
+</plist>
