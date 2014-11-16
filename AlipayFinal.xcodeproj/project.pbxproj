@@ -7,6 +7,8 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2B1BE5591A18934200E059D7 /* splash@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B1BE5571A18934200E059D7 /* splash@2x.jpg */; };
+		2B1BE55A1A18934200E059D7 /* splashR4@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2B1BE5581A18934200E059D7 /* splashR4@2x.jpg */; };
 		2B2346AB1A1678D600E72AA8 /* .gitignore in Resources */ = {isa = PBXBuildFile; fileRef = 2B2346A11A1678D600E72AA8 /* .gitignore */; };
 		2B2346AC1A1678D600E72AA8 /* AESCrypt.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B2346A31A1678D600E72AA8 /* AESCrypt.m */; };
 		2B2346AD1A1678D600E72AA8 /* NSData+Base64.m in Sources */ = {isa = PBXBuildFile; fileRef = 2B2346A51A1678D600E72AA8 /* NSData+Base64.m */; };
@@ -44,13 +46,12 @@
 		2BAC430D1A153AFB00AD190F /* GesturePasswordView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BAC43041A153AFB00AD190F /* GesturePasswordView.m */; };
 		2BAC430F1A153AFB00AD190F /* TentacleView.m in Sources */ = {isa = PBXBuildFile; fileRef = 2BAC43091A153AFB00AD190F /* TentacleView.m */; };
 		2BBAC1471A13FC180062B6F3 /* CoreImage.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BBAC1461A13FC180062B6F3 /* CoreImage.framework */; };
-		2BE7FA2F1A1890DA005A9C34 /* splash@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BE7FA2D1A1890DA005A9C34 /* splash@2x.jpg */; };
-		2BE7FA301A1890DA005A9C34 /* splashR4@2x.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 2BE7FA2E1A1890DA005A9C34 /* splashR4@2x.jpg */; };
 		2BEB6C021A16062F003C2B91 /* Security.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 2BEB6C011A16062F003C2B91 /* Security.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
-		2B23469F1A1678B200E72AA8 /* .DS_Store */ = {isa = PBXFileReference; lastKnownFileType = text; name = .DS_Store; path = "AlipayFinal/AESCrypt-ObjC/.DS_Store"; sourceTree = SOURCE_ROOT; };
+		2B1BE5571A18934200E059D7 /* splash@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "splash@2x.jpg"; sourceTree = "<group>"; };
+		2B1BE5581A18934200E059D7 /* splashR4@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "splashR4@2x.jpg"; sourceTree = "<group>"; };
 		2B2346A11A1678D600E72AA8 /* .gitignore */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = .gitignore; sourceTree = "<group>"; };
 		2B2346A21A1678D600E72AA8 /* AESCrypt.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AESCrypt.h; sourceTree = "<group>"; };
 		2B2346A31A1678D600E72AA8 /* AESCrypt.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AESCrypt.m; sourceTree = "<group>"; };
@@ -114,8 +115,6 @@
 		2BAC43091A153AFB00AD190F /* TentacleView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TentacleView.m; sourceTree = "<group>"; };
 		2BBAC1441A13FAB30062B6F3 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 		2BBAC1461A13FC180062B6F3 /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
-		2BE7FA2D1A1890DA005A9C34 /* splash@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "splash@2x.jpg"; path = "../../../../AlipayFinal/AlipayFinal/resources/splash@2x.jpg"; sourceTree = "<group>"; };
-		2BE7FA2E1A1890DA005A9C34 /* splashR4@2x.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "splashR4@2x.jpg"; path = "../../../../AlipayFinal/AlipayFinal/resources/splashR4@2x.jpg"; sourceTree = "<group>"; };
 		2BEB6C011A16062F003C2B91 /* Security.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Security.framework; path = System/Library/Frameworks/Security.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
@@ -197,8 +196,8 @@
 		2B4BFB991A152E5F00C25085 /* resources */ = {
 			isa = PBXGroup;
 			children = (
-				2BE7FA2D1A1890DA005A9C34 /* splash@2x.jpg */,
-				2BE7FA2E1A1890DA005A9C34 /* splashR4@2x.jpg */,
+				2B1BE5571A18934200E059D7 /* splash@2x.jpg */,
+				2B1BE5581A18934200E059D7 /* splashR4@2x.jpg */,
 				2B4BFB9A1A152E5F00C25085 /* AlipayHome.bundle */,
 				2B4BFB9B1A152E5F00C25085 /* AlipayHomeIcons.bundle */,
 				2B4BFB9C1A152E5F00C25085 /* Services.bundle */,
@@ -276,7 +275,6 @@
 		2B84AAD51A1219980098E502 /* AlipayFinal */ = {
 			isa = PBXGroup;
 			children = (
-				2B23469F1A1678B200E72AA8 /* .DS_Store */,
 				2B2346A01A1678D600E72AA8 /* AESCrypt-ObjC */,
 				2BAC42FD1A153AFB00AD190F /* GesturePassword */,
 				2BAC42F61A15325B00AD190F /* Supporting Files */,
@@ -374,17 +372,17 @@
 			buildActionMask = 2147483647;
 			files = (
 				2B4BFBC21A152F6000C25085 /* Images.xcassets in Resources */,
+				2B1BE5591A18934200E059D7 /* splash@2x.jpg in Resources */,
 				2B4BFBA11A152E6000C25085 /* tabbed_icon.bundle in Resources */,
 				2B2346B01A1678D600E72AA8 /* README.md in Resources */,
 				2B2346AB1A1678D600E72AA8 /* .gitignore in Resources */,
 				2BAC430A1A153AFB00AD190F /* GesturePassword.bundle in Resources */,
+				2B1BE55A1A18934200E059D7 /* splashR4@2x.jpg in Resources */,
 				2B4BFB9E1A152E6000C25085 /* AlipayHome.bundle in Resources */,
 				2BAC42F41A15325100AD190F /* AlipayFinal-Info.plist in Resources */,
 				2B4BFBBE1A152EEC00C25085 /* Main.storyboard in Resources */,
 				2B4BFBA01A152E6000C25085 /* Services.bundle in Resources */,
-				2BE7FA2F1A1890DA005A9C34 /* splash@2x.jpg in Resources */,
 				2B4BFB9F1A152E6000C25085 /* AlipayHomeIcons.bundle in Resources */,
-				2BE7FA301A1890DA005A9C34 /* splashR4@2x.jpg in Resources */,
 				2B4BFBC01A152F4600C25085 /* Widgets.xib in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
